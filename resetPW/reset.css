@@ -1,0 +1,158 @@
+/* Injected CSS Code */
+/*PREFERENCES STYLE*/
+.form-all {
+    font-family: Inter, sans-serif;
+}
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+    font-family: Inter, sans-serif;
+}
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+    font-family: Inter, sans-serif;
+}
+.form-header-group {
+    font-family: Inter, sans-serif;
+}
+.form-label {
+    font-family: Inter, sans-serif;
+}
+
+.form-label.form-label-auto {
+
+    display: inline-block;
+    float: left;
+    text-align: left;
+
+}
+
+.form-line {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.form-all {
+    max-width: 752px;
+    width: 100%;
+}
+
+.form-label.form-label-left,
+.form-label.form-label-right,
+.form-label.form-label-left.form-label-auto,
+.form-label.form-label-right.form-label-auto {
+    width: 230px;
+}
+
+.form-all {
+    font-size: 16px
+}
+.form-all .qq-upload-button,
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+    font-size: 16px
+}
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+    font-size: 16px
+}
+
+.supernova .form-all, .form-all {
+    background-color: #fff;
+}
+
+.form-all {
+    color: #2C3345;
+}
+.form-header-group .form-header {
+    color: #2C3345;
+}
+.form-header-group .form-subHeader {
+    color: #2C3345;
+}
+.form-label-top,
+.form-label-left,
+.form-label-right,
+.form-html,
+.form-checkbox-item label,
+.form-radio-item label {
+    color: #2C3345;
+}
+.form-sub-label {
+    color: #464d5f;
+}
+
+.supernova {
+    background-color: #ecedf3;
+}
+.supernova body {
+    background: transparent;
+}
+
+.form-textbox,
+.form-textarea,
+.form-dropdown,
+.form-radio-other-input,
+.form-checkbox-other-input,
+.form-captcha input,
+.form-spinner input {
+    background-color: #fff;
+}
+
+.supernova {
+    height: 100%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+.supernova {
+    background-image: url("../images/background3.jpg");
+}
+#stage {
+    background-image: url("../images/background3.jpg");
+}
+
+.form-all {
+    background-image: none;
+}
+
+.form-all {
+    position: relative;
+}
+.form-all:before {
+    content: "";
+    background-image: url("https://www.jotform.com/uploads/rubenmoons2004/form_files/bazlogo.6197d3ee6bb034.78604726.png");
+    display: inline-block;
+    height: 140px;
+    position: absolute;
+    background-size: 140px 140px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.form-all {
+    margin-top: 160px !important;
+}
+.form-all:before {
+    top: -150px;
+    left: 0;
+    background-position: top left;
+}
+
+.ie-8 .form-all:before { display: none; }
+.ie-8 {
+    margin-top: auto;
+    margin-top: initial;
+}
+
+/*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+.form-label.form-label-auto {
+
+    display: inline-block;
+    float: left;
+    text-align: left;
+
+}
+/* Injected CSS Code */
